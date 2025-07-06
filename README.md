@@ -38,5 +38,5 @@ A simple React web app that displays a paginated list of Pokémon using the Poke
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mohamedEltoor/Pokimon-App.git
+   https://mohamedeltoor.github.io/Pokimon-App/
 
